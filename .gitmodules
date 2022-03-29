@@ -1,3 +1,6 @@
 [submodule "configs/.config/ohmyzsh"]
 	path = configs/.config/ohmyzsh
 	url = https://github.com/ohmyzsh/ohmyzsh.git
+[submodule "configs/.config/zsh/plugins/zsh-vi-mode"]
+	path = configs/.config/zsh/plugins/zsh-vi-mode
+	url = https://github.com/jeffreytse/zsh-vi-mode
