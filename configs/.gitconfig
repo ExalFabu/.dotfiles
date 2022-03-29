@@ -1,3 +1,5 @@
 [user]
 	email = 53974096+ExalFabu@users.noreply.github.com
 	name = Alex
+[diff]
+	tool = vimdiff

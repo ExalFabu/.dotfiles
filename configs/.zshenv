@@ -1,3 +1,3 @@
 ZDOTDIR=~/.config/
-EDITOR=vim
+EDITOR=/usr/bin/vim
 PATH=$PATH:$HOME/.local/bin # to add fuck plugin
