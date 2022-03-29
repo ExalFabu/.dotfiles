@@ -1,2 +1,2 @@
 ZDOTDIR=~/.config/
-PATH=$PATH:/home/dietpi/.local/bin # to add fuck plugin
+PATH=$PATH:$HOME/.local/bin # to add fuck plugin
