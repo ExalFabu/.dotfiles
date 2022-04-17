@@ -3,3 +3,5 @@
 	name = Alex
 [diff]
 	tool = vimdiff
+[init]
+	defaultBranch = main
